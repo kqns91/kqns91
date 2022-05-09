@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ## Status
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kqns91&hide=contribs&count_private=true&show_icons=true&theme=nord_bright)](https://github.com/kqns91/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqns91&theme=nord_bright)](https://github.com/kqns91/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kqns91&hide=contribs&count_private=true&show_icons=true&theme=nord_bright)](https://github.com/kqns91/)  
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqns91&theme=nord_bright)](https://github.com/kqns91/)
